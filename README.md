@@ -24,24 +24,21 @@ I care more about shipping working products than just writing code that looks go
 ## 🛠️ Technical Skills
 
 ### Frontend
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss)
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss)
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-0A0A0A?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT_Auth-0A0A0A?style=for-the-badge&logo=jsonwebtokens)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
 ![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman)
-
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
 
 ---
 
@@ -58,9 +55,9 @@ I care more about shipping working products than just writing code that looks go
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-self-xi.vercel.app/api?username=shubhanshu2006&show_icons=true&theme=react&hide_border=true)
+![GitHub Stats](https://github-readme-stats-self-xi.vercel.app/api?username=HarshUpadhyay&show_icons=true&theme=react&hide_border=true)
 
-![Top Languages](https://github-readme-stats-self-xi.vercel.app/api/top-langs/?username=shubhanshu2006&layout=compact&theme=react&hide_border=true)
+![Top Languages](https://github-readme-stats-self-xi.vercel.app/api/top-langs/?username=HarshUpadhyay&layout=compact&theme=react&hide_border=true)
 
 ---
 
