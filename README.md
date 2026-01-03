@@ -14,3 +14,57 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, I'm Harsh Upadhyay 👋
+
+💻 Full-Stack Web Developer working mainly with the MERN stack. I build real, functional web applications focused on clean logic, solid backend systems, and practical user experiences.
+I care more about shipping working products than just writing code that looks good. I'am constantly improving my skills through hands-on projects and real problem solving. 
+
+---
+## 🛠️ Technical Skills
+
+### Frontend
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-0A0A0A?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT_Auth-0A0A0A?style=for-the-badge&logo=jsonwebtokens)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql)
+
+### Languages & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman)
+
+
+---
+
+## 🚀 Project
+
+### Full Stack Property & Booking Management Platform (MERN)..........
+
+---
+
+## 🏆 Achievement
+- Smart India Hackathon — College Level Participant
+- Code Arena — Winner
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats-self-xi.vercel.app/api?username=shubhanshu2006&show_icons=true&theme=react&hide_border=true)
+
+![Top Languages](https://github-readme-stats-self-xi.vercel.app/api/top-langs/?username=shubhanshu2006&layout=compact&theme=react&hide_border=true)
+
+---
+
+## 🤝 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshupadhyay005-684131333/)
+[![X](https://img.shields.io/badge/X_(Twitter)-0A0A0A?style=for-the-badge&logo=x)](https://x.com/HunkHarsh005)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail)](mailto:uharsh328@gmail.com)
