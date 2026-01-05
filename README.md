@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone 👋
 
 <!--
 **Harsh-Upadhyay005/Harsh-Upadhyay005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 
 💻 Full-Stack Web Developer working mainly with the MERN stack. I build real, functional web applications focused on clean logic, solid backend systems, and practical user experiences.
 I care more about shipping working products than just writing code that looks good. I'am constantly improving my skills through hands-on projects and real problem solving. 
+I’m looking to collaborate on my Socail media 
 
 ---
 ## 🛠️ Technical Skills
 
 ### Frontend
+![BootStrap CSS](https://img.shields.io/badge/Bootstrap_CSS-0A0A0A?style=for-the-badge&logo=bootstrapcss)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss)
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs)
@@ -55,13 +57,15 @@ I care more about shipping working products than just writing code that looks go
 
 ## 📈 GitHub Activity
 
+[![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-Upadhyay005)](https://github.com/Harsh-Upadhyay005/github-readme-stats)
+
 ![GitHub Stats](https://github-readme-stats-self-xi.vercel.app/api?username=HarshUpadhyay&show_icons=true&theme=react&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-self-xi.vercel.app/api/top-langs/?username=HarshUpadhyay&layout=compact&theme=react&hide_border=true)
 
 ---
 
-## 🤝 Connect
+## 🤝  How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshupadhyay005-684131333/)
 [![X](https://img.shields.io/badge/X_(Twitter)-0A0A0A?style=for-the-badge&logo=x)](https://x.com/HunkHarsh005)
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail)](mailto:uharsh328@gmail.com)
