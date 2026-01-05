@@ -37,6 +37,8 @@ I’m looking to collaborate on my Socail media
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
 
 ### Languages & Tools
+![RestApi](https://img.shields.io/badge/Rest-0A0A0A?style=for-the-badge&logo=Rest)
+![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git)
@@ -57,11 +59,9 @@ I’m looking to collaborate on my Socail media
 
 ## 📈 GitHub Activity
 
-[![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-Upadhyay005)](https://github.com/Harsh-Upadhyay005/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-self-xi.vercel.app/api?username=Harsh-Upadhyay005&commits_year=2026&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats-self-xi.vercel.app/api?username=HarshUpadhyay&show_icons=true&theme=react&hide_border=true)
-
-![Top Languages](https://github-readme-stats-self-xi.vercel.app/api/top-langs/?username=HarshUpadhyay&layout=compact&theme=react&hide_border=true)
+![Top Languages](https://github-readme-stats-self-xi.vercel.app/api/top-langs/?username=Harsh-Upadhyay005&layout=compact&theme=dark&hide_border=true)
 
 ---
 
