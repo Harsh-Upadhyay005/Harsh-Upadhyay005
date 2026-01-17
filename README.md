@@ -72,7 +72,7 @@ I’m improving every day with practical projects and real problem solving.
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Upadhyay005&theme=react-dark&hide_border=true&area=true)
 
-![GitHub Stats](https://github-readme-stats-self-xi.vercel.app/api?username=Harsh-Upadhdyay005&show_icons=true&theme=react&hide_border=true)
+![GitHub Stats](https://github-readme-stats-self-xi.vercel.app/api?username=Harsh-Upadhyay005&show_icons=true&theme=react&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-self-xi.vercel.app/api/top-langs/?username=Harsh-Upadhyay005&layout=compact&theme=react&hide_border=true)
 
