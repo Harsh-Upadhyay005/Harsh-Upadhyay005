@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Harsh Upadhyay 👋
+# Hi, I’m Harsh 👋
 
-💻 Full-Stack Web Developer working mainly with the MERN stack. I build real, functional web applications focused on clean logic, solid backend systems, and practical user experiences.
-I care more about shipping working products than just writing code that looks good. I'am constantly improving my skills through hands-on projects and real problem solving. 
-I’m looking to collaborate on my Socail media 
+I am a Full-Stack Web Developer focusing on the MERN stack.  
+I build functional, real world web applications with clean logic and solid backend systems.  
+I’m improving every day with practical projects and real problem solving.
+ 
 
 ---
 ## 🛠️ Technical Skills
@@ -29,6 +30,9 @@ I’m looking to collaborate on my Socail media
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss)
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
@@ -48,20 +52,32 @@ I’m looking to collaborate on my Socail media
 
 ## 🚀 Project
 
-### Full Stack Property & Booking Management Platform (MERN)..........
+### 🏆 Staystack – Property & Booking Manager
+
+**Stack:** MERN  
+**Description:** Full stack web app for listing and booking properties with user authentication and dashboard.  
+**Live Demo:** (Comming soon....)  
+**Repo:** https://github.com/Harsh-Upadhyay005/Staystack
+
 
 ---
 
-## 🏆 Achievement
-- Smart India Hackathon — College Level Participant
-- Code Arena — Winner
----
+## 🏅 Achievements
+- Smart India Hackathon – College Level Participant (2025, Team Leader)
+- Code Arena – Winner (Coding Compition, 2025)
+
+
+
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-self-xi.vercel.app/api?username=Harsh-Upadhyay005&commits_year=2026&show_icons=true&theme=dark&hide_border=true)
+.github/workflows/contributions.yml
 
-![Top Languages](https://github-readme-stats-self-xi.vercel.app/api/top-langs/?username=Harsh-Upadhyay005&layout=compact&theme=dark&hide_border=true)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-Upadhyay005&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Upadhyay005&layout=compact)
+
 
 ---
 
