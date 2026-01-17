@@ -27,25 +27,27 @@ I’m improving every day with practical projects and real problem solving.
 
 ### Frontend
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss)
 ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TailwindCss](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
 
 
 ### Backend & Databases
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
 
 ### Languages & Tools
-![RestApi](https://img.shields.io/badge/RestAPI-0A0A0A?style=for-the-badge&logo=RestAPI)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
+![RestApi](https://img.shields.io/badge/RestAPI-0A0A0A?style=for-the-badge&logo=RestAPI)
 
 ---
 
@@ -64,6 +66,15 @@ I’m improving every day with practical projects and real problem solving.
 ## 🏅 Achievements
 - Smart India Hackathon – College Level Participant (2025, Team Leader)
 - Code Arena – Winner (Coding Compition, 2025)
+
+
+## 📈 GitHub Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Upadhyay005&theme=react-dark&hide_border=true&area=true)
+
+![GitHub Stats](https://github-readme-stats-self-xi.vercel.app/api?username=Harsh-Upadhdyay005&show_icons=true&theme=react&hide_border=true)
+
+![Top Languages](https://github-readme-stats-self-xi.vercel.app/api/top-langs/?username=Harsh-Upadhyay005&layout=compact&theme=react&hide_border=true)
 
 ---
 
