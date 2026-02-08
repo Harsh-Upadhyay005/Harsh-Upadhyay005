@@ -53,6 +53,21 @@ I’m improving every day with practical projects and real problem solving.
 
 ## 🚀 Project
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 WebMeet</h3>
+      <p>
+        Real-time chat & video calling platform using Stream SDKs.
+        Built with React, Node.js, MongoDB and JWT authentication.
+      </p>
+      <p>
+        <a href="https://github.com/Harsh-Upadhyay005/WebMeet">🔗 GitHub Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 🚀 WebMeet – Real-Time Communication Platform
 
 A full-stack real-time chat & video calling app built for scalability.
