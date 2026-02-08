@@ -53,6 +53,24 @@ I’m improving every day with practical projects and real problem solving.
 
 ## 🚀 Project
 
+🚀 WebMeet – Real-Time Communication Platform
+
+A full-stack real-time chat & video calling app built for scalability.
+
+<p> <img src="https://img.shields.io/badge/React-18-blue" /> <img src="https://img.shields.io/badge/Node.js-Backend-green" /> <img src="https://img.shields.io/badge/MongoDB-Database-brightgreen" /> <img src="https://img.shields.io/badge/Stream-Real--Time-orange" /> </p>
+
+✨ Highlights
+
+Real-time messaging & video calling
+
+JWT-based secure authentication
+
+Friend system with live notifications
+
+Responsive UI with multi-theme support
+
+🔗 Repo: https://github.com/Harsh-Upadhyay005/WebMeet
+
 ### 🏆 Staystack – Property & Booking Manager
 
 **Stack:** MERN  
