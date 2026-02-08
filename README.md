@@ -61,18 +61,7 @@ I’m improving every day with practical projects and real problem solving.
         Real-time chat & video calling platform using Stream SDKs.
         Built with React, Node.js, MongoDB and JWT authentication.
       </p>
-      <p>
-        <a href="https://github.com/Harsh-Upadhyay005/WebMeet">🔗 GitHub Repo</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-🚀 WebMeet – Real-Time Communication Platform
-
-A full-stack real-time chat & video calling app built for scalability.
-
-<p> <img src="https://img.shields.io/badge/React-18-blue" /> <img src="https://img.shields.io/badge/Node.js-Backend-green" /> <img src="https://img.shields.io/badge/MongoDB-Database-brightgreen" /> <img src="https://img.shields.io/badge/Stream-Real--Time-orange" /> </p>
+     <p> <img src="https://img.shields.io/badge/React-18-blue" /> <img src="https://img.shields.io/badge/Node.js-Backend-green" /> <img src="https://img.shields.io/badge/MongoDB-Database-brightgreen" /> <img src="https://img.shields.io/badge/Stream-Real--Time-orange" /> </p>
 
 ✨ Highlights
 
@@ -83,8 +72,12 @@ JWT-based secure authentication
 Friend system with live notifications
 
 Responsive UI with multi-theme support
-
-🔗 Repo: https://github.com/Harsh-Upadhyay005/WebMeet
+      <p>
+        <a href="https://github.com/Harsh-Upadhyay005/WebMeet">🔗 GitHub Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 🏆 Staystack – Property & Booking Manager
 
