@@ -110,7 +110,7 @@ Scalable REST APIs with stateless authentication (JWT)
 Optimized database queries with indexing and structured schema
 
    <p>
-        <a href="p-crm-platform.vercel.app">🔗 Live Demo</a>
+        <a href="https://p-crm-platform.vercel.app/">🔗 Live Demo</a>
       </p>
     </td>
   </tr>
