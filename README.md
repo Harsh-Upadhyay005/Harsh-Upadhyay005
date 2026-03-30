@@ -84,16 +84,16 @@ Responsive UI with multi-theme support
     <td width="50%">
       <h3>BharatSetu</h3>
       <p>
-        A scalable complaint management and public service CRM system designed for multi-tenant environments.
-        Built with Next.js, Node.js, PostgreSQL, and Redis to handle real-time updates, SLA tracking, and workflow automation.
+        A scalable complaint management and public service CRM system 
+        designed for multi-tenant environments.
+        Built with Next.js, Node.js, PostgreSQL, 
+        and Redis to handle real-time updates, SLA tracking, and workflow automation.
       </p>
 
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-Frontend-black" />
-        <img src="https://img.shields.io/badge/Node.js-Backend-green" />
-        <img src="https://img.shields.io/badge/PostgreSQL-Database-blue" />
-        <img src="https://img.shields.io/badge/Redis-Cache-red" />
-      </p>
+![Next.js](https://img.shields.io/badge/Next.js-Frontend-black?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-Cache-red?style=for-the-badge)
 
 ✨ Highlights
 
@@ -109,7 +109,7 @@ Scalable REST APIs with stateless authentication (JWT)
 
 Optimized database queries with indexing and structured schema
 
-      <p>
+   <p>
         <a href="p-crm-platform.vercel.app">🔗 Live Demo</a>
       </p>
     </td>
@@ -121,9 +121,9 @@ Optimized database queries with indexing and structured schema
 ---
 
 ## 🏅 Achievements
-- Smart India Hackathon – College Level Participant (2025, Team Leader)
+- Smart India Hackathon – College Level Participant (2025)
 - Code Arena – Winner (Coding Compition, 2025)
-- Participated in PW-RIFT Hackathon
+- Participated in PW-RIFT Hackathon (2026)
 - Got Selected in National Level Hackathon - India Inovates 2026 
 
 
