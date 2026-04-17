@@ -21,8 +21,9 @@ I am a Full-Stack Web Developer focusing on the MERN stack.
 I build functional, real world web applications with clean logic and solid backend systems.  
 I’m improving every day with practical projects and real problem solving.
  
-
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Harsh-Upadhyay&color=brightgreen)
+
 ## 🛠️ Technical Skills
 
 ### Frontend
@@ -49,9 +50,7 @@ I’m improving every day with practical projects and real problem solving.
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
 ![RestApi](https://img.shields.io/badge/RestAPI-0A0A0A?style=for-the-badge&logo=RestAPI)
 
----
-
-https://komarev.com/ghpvc/?username=Harsh-Upadhyay005&color=brightgreen&style=flat-square
+---![GitHub Streak](https://streak-stats.demolab.com?user=Harsh-Upadhyay005&theme=radical)
 
 ## 🚀 Project
 
