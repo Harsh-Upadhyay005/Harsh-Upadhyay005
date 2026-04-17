@@ -136,9 +136,9 @@ Optimized database queries with indexing and structured schema
 
 ![Top Languages](https://github-readme-stats-self-xi.vercel.app/api/top-langs/?username=Harsh-Upadhyay005&layout=compact&theme=react&hide_border=true)
 
----
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Harsh-Upadhyay005&theme=radical)
+
+---
 
 ## 🤝  How to connect me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshupadhyay005-684131333/)
