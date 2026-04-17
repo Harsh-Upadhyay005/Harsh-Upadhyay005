@@ -51,7 +51,7 @@ I’m improving every day with practical projects and real problem solving.
 
 ---
 
-https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square
+https://komarev.com/ghpvc/?username=Harsh-Upadhyay005&color=brightgreen&style=flat-square
 
 ## 🚀 Project
 
