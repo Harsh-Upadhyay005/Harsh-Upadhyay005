@@ -22,7 +22,7 @@ I build functional, real world web applications with clean logic and solid backe
 I’m improving every day with practical projects and real problem solving.
  
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Harsh-Upadhyay&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Harsh-Upadhyay005&color=brightgreen)
 
 ## 🛠️ Technical Skills
 
@@ -50,7 +50,7 @@ I’m improving every day with practical projects and real problem solving.
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
 ![RestApi](https://img.shields.io/badge/RestAPI-0A0A0A?style=for-the-badge&logo=RestAPI)
 
----![GitHub Streak](https://streak-stats.demolab.com?user=Harsh-Upadhyay005&theme=radical)
+---
 
 ## 🚀 Project
 
@@ -137,6 +137,8 @@ Optimized database queries with indexing and structured schema
 ![Top Languages](https://github-readme-stats-self-xi.vercel.app/api/top-langs/?username=Harsh-Upadhyay005&layout=compact&theme=react&hide_border=true)
 
 ---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Harsh-Upadhyay005&theme=radical)
 
 ## 🤝  How to connect me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshupadhyay005-684131333/)
