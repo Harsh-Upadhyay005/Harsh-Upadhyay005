@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I’m Harsh 👋
 
-I am a Full-Stack Web Developer focusing on the MERN stack.  
+I am a Full-Stack Web Developer .  
 I build functional, real world web applications with clean logic and solid backend systems.  
 I’m improving every day with practical projects and real problem solving.
  
